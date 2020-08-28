@@ -24,6 +24,8 @@ DriverFinder screenshot
 
 <br><br>
 <b>ChimericSeq_del</b>
+Original code from https://github.com/JBSScience/ChimericSeq. Small modifications in order to identify large deletions in the genome.
+
 <br>Windows environment
 <br>===============================
 <br>The user may run the application from the source code or the pre-built executable code. The steps below show how to install and run ChimericSeq_del from the pre-built executable code.  
