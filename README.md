@@ -1,8 +1,11 @@
 # DriverFinder_DeletionDetection
 <b>DriverFinder</b>
+
+HccDriverFinder searches through Next Generation Sequencing data for potential mutations or integration events that could drive liver cancer. Features have been added for to identify dominant genotypes, create "circular" genotypes, and combine SAM files. Work has since been published in the American Association for Cancer Research 2018 Journal. Initially created with Amy Lu at Carnegie Mellon University.
+
 <br>Windows environment
 <br>===============================
-<br>The user may run the application from the source code or the pre-built executable code. The steps below show how to install and run DriverFinder from the pre-build executable code.  
+<br>The user may run the application from the source code or the pre-built executable code. The steps below show how to install and run DriverFinder from the pre-built executable code.  
 <br>Installation: 
 <br> 1. Download all 3 files (DriverFinder_5.2_zip.exe, DriverFinder_5.2_zip.7z.001, & DriverFinder_5.2_zip.7z.002) under the 'DriverFinder_exe' folder.
 <br> 2. Run the 'DriverFinder_5.2_zip.exe' code to install the application. During the installation, the system will ask the user to provide a folder for the application to be installed.
