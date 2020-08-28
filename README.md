@@ -24,6 +24,7 @@ DriverFinder screenshot
 
 <br><br>
 <b>ChimericSeq_del</b>
+
 Original code from https://github.com/JBSScience/ChimericSeq. Small modifications in order to identify large deletions in the genome.
 
 <br>Windows environment
